@@ -1,4 +1,4 @@
-#Have Hip Hop Artists started to use less Vocabulary? An Analysis
+# Have Hip Hop Artists started to use less Vocabulary? An Analysis
 
 Abstract
 ---------
